@@ -1,0 +1,11 @@
+sgftokifu
+
+
+v1.0.1 17-02-2006
+=======
+Fixed bugs caused because of "bad" nodes
+
+
+v1.0 16-02-2006
+=======
+The first version to be released.
